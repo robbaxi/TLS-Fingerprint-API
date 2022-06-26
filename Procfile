@@ -1,1 +1,1 @@
-web: proxy.go
+web: go run proxy.go
