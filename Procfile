@@ -1,1 +1,1 @@
-worker: go run proxy.go
+web: proxy
