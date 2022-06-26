@@ -1,1 +1,1 @@
-web: go run proxy.go
+web: bin/tlsapi
